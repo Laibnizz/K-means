@@ -1,1 +1,1 @@
-To analyze Taiwan's 2023 earthquake data using K-means clustering
+To analyze 2023 earthquake data using K-means clustering
